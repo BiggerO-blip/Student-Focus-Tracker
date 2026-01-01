@@ -4,7 +4,7 @@ Description: A simple productivity and student tracking app I'm building as part
 
 Planned Features:
 
-daily study sessions logging
-Subject/catagory tracking
-Streak + consitancy tracking
-export or summary view
+- daily study sessions logging
+- Subject/catagory tracking
+- Streak + consitancy tracking
+- export or summary view
