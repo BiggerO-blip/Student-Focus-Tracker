@@ -8,3 +8,10 @@ Planned Features:
 - Subject/catagory tracking
 - Streak + consitancy tracking
 - export or summary view
+
+Current Goal (version 1)
+- Create a simple console-based tracker
+- user can enter:
+  - subject or task
+  - minutes studied
+- program stores and prints sessions history
