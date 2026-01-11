@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+private ArrayList<FocusSession> sessions;
+sessions = new ArrayList<FocusSession>();
 
 public class Main
   {
